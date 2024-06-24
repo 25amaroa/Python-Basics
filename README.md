@@ -1,2 +1,2 @@
-# Python-Syntax
+# Python-Basics
 Python Notes: google colab
