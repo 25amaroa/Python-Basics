@@ -1,2 +1,2 @@
 # Python-Basics
-Python Notes: google colab
+Personal Python Notes created using Google Collab
